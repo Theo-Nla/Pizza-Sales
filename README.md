@@ -57,7 +57,7 @@ Charts and graphs are used to illustrate trends in sales, distribution of sales 
 ![Pizza Sales Home Dashboard](https://github.com/Theo-Nla/Theo-Works/assets/135545087/7175edc0-f67c-44a2-957f-c335543e748e)
 
 ## Pizza Sales Report Best-Worst Sellers Dashboard
-
+![Pizza Sales Best-Worst Sellers Dashboard](https://github.com/Theo-Nla/Theo-Works/assets/135545087/ca02802f-cf74-487d-8b82-d345c5638f49)
 
 ## Contributing
 Contributions to this project are welcome! If you have suggestions for improving the analysis, adding new queries, or enhancing the visualizations, feel free to open an issue or submit a pull request.
