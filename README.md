@@ -1,4 +1,4 @@
-# Pizza Sales Analytics Project
+# Pizza Sales Report Project
 This repository contains SQL queries and Power BI visualizations for analyzing pizza sales data. The project aims to provide insights into various key performance indicators (KPIs) and trends related to pizza sales.
 
 ## Overview
@@ -52,6 +52,12 @@ DAX functions was used to create
 e.t.c
 
 Charts and graphs are used to illustrate trends in sales, distribution of sales by pizza category and size, top-selling pizzas by revenue, quantity, and total orders, as well as best and worst sellers by Revenue, Quantity and Total Orders.
+
+## Pizza Sales Report Home Dashboard
+![Pizza Sales Home Dashboard](https://github.com/Theo-Nla/Theo-Works/assets/135545087/7175edc0-f67c-44a2-957f-c335543e748e)
+
+## Pizza Sales Report Best-Worst Sellers Dashboard
+
 
 ## Contributing
 Contributions to this project are welcome! If you have suggestions for improving the analysis, adding new queries, or enhancing the visualizations, feel free to open an issue or submit a pull request.
