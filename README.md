@@ -42,13 +42,13 @@ The SQL queries in this repository are written to answer specific analytical que
 ## Visualizations
 The visualizations created using Power BI complement the SQL analysis by presenting the insights in a visually appealing and easy-to-understand format. Power query was used to modify columns and create new ones
 DAX functions was used to create 
-•	Total Orders = DISTINCTCOUNT(pizua_sales_excel_file[order_id])
-•	Total Pizza Sold = sum(pizua_sales_excel_file[quantity])
-•	Total Revenue = sum(pizua_sales_excel_file[total_price])
-•	Average Order Value = [Total Revenue] / [Total Orders]
-•	Avg Pizza Per Order = [Total Pizza Sold] / [Total Orders]
-•	Order Day = UPPER(LEFT(pizua_sales_excel_file[Day Name], 3))
-•	Order Month = UPPER(LEFT(pizua_sales_excel_file[Month Name], 3))
+*	Total Orders = DISTINCTCOUNT(pizua_sales_excel_file[order_id])
+*	Total Pizza Sold = sum(pizua_sales_excel_file[quantity])
+*	Total Revenue = sum(pizua_sales_excel_file[total_price])
+*	Average Order Value = [Total Revenue] / [Total Orders]
+*	Avg Pizza Per Order = [Total Pizza Sold] / [Total Orders]
+*	Order Day = UPPER(LEFT(pizua_sales_excel_file[Day Name], 3))
+*	Order Month = UPPER(LEFT(pizua_sales_excel_file[Month Name], 3))
 e.t.c
 
 Charts and graphs are used to illustrate trends in sales, distribution of sales by pizza category and size, top-selling pizzas by revenue, quantity, and total orders, as well as best and worst sellers by Revenue, Quantity and Total Orders.
